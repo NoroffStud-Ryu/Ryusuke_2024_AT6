@@ -1,0 +1,6 @@
+The UserInputValidator is designed to validate any integer a user puts. 
+
+What it does:
+- It contains a method to check if strings in a list represent valid positive integers.
+- Valid integers are returned in alist
+- a display for ('display_validation_message') that displays the that the validation is complete. 
